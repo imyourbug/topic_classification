@@ -1,0 +1,135 @@
+question,topic,subtopic
+"Hey, I've been working on expanding polynomial expressions, and I came across this one: how do you expand the expression (-7x + 3)(-2x - 4)?",algebra,expanding
+"Could you please differentiate the expression 3x^{10} + 5x^{10} + 6x^{10} + 10x^{7} + 9x^{3} using the power rule?",calculus,power_rule_differentiation
+"Hey, I was wondering, how do you solve the equation 7x + 3 = 5? What steps do you take to find the value of x?",algebra,basic_algebra
+"Could you please determine the value of log base 2 of 8?",algebra,log
+"Could you help me determine the decimal equivalent of the fraction 51 divided by 84?",basic_math,fraction_to_decimal
+"Could you please calculate the product of the scalar 10 and the matrix represented as \(\begin{bmatrix} 4 & 8 \\ 9 & 7 \end{bmatrix}\)?",algebra,multiply_int_to_22_matrix
+"Alright, class, let’s put our thinking caps on! If we have a triangle with sides measuring 20, 15, and 8, can anyone tell me what its area is? Let’s see if we can crack this puzzle together!",geometry,area_of_triangle
+"Hey, I've been thinking about triangles lately, and I'm curious—do you think a triangle can exist with sides measuring 21, 8, and 29?",geometry,valid_triangle
+"Hey there! Let’s dive into the fascinating world of numbers! Can you uncover the prime factors of 32 for me? I can’t wait to see what you discover!",misc,prime_factors
+"Hey, so I was working on this geometry problem and got a bit stuck! Can you help me figure out what the hypotenuse of a right triangle is if the other two sides are 8 and 17? I'm really curious about it!",geometry,pythagorean_theorem
+"Could you help me solve these linear equations? The first one is 20x + 1y = -108, and the second is -4x + 10y = 144. What are the values of x and y?",algebra,linear_equations
+"Alright, let’s dive into some prime factor fun! Can you break down the number 150 into its prime factors? Let’s see what you come up with!",misc,prime_factors
+"Could you help me figure out the result of multiplying \(\frac{3}{5}\) by \(\frac{2}{5}\)?",basic_math,fraction_multiplication
+"Could you please determine the measure of each interior angle of a regular octagon?",geometry,angle_regular_polygon
+"Could you determine the number of combinations possible when selecting 6 objects from a total of 13?",statistics,combinations
+"I'm really curious about this: what is the value of 1 factorial, or 1!?",basic_math,factorial
+"Could you please calculate the surface area of a cube that has a side length of 18 meters?",geometry,surface_area_cube
+"Alright, let’s tackle this exciting problem! What is the surface area of a cuboid with dimensions of 5 meters, 2 meters, and 7 meters? Let’s dive in and find that answer!",geometry,surface_area_cuboid
+"Hey there! I’ve got an intriguing geometry question for you: What’s the surface area of a cylinder that has a height of 36 meters and a radius of 3 meters? Let’s dive into those calculations!",geometry,surface_area_cylinder
+"Hey there, fellow math enthusiast! If we have a cube with each side measuring 4 meters, can you figure out what its volume would be? Let's crunch some numbers together!",geometry,volume_cube
+"Could you please calculate the volume of a cuboid with dimensions measuring 13 meters, 4 meters, and 17 meters?",geometry,volume_cuboid
+"Could you help me determine the volume of a cylinder that has a height of 33 meters and a radius of 14 meters?",geometry,volume_cylinder
+"Hey, I’ve got a fascinating geometry question for you! Can you calculate the surface area of a cone that has a height of 17 meters and a radius of 7 meters? I’m really curious to see what you come up with!",geometry,surface_area_cone
+"Hey, have you ever wondered how to calculate the volume of a cone? Imagine we have a cone with a height of 10 meters and a radius of 20 meters! What do you think the volume would be? Isn’t that fascinating?",geometry,volume_cone
+"Alright! Let’s dive into this exciting math challenge together. Can you identify the common factors of 15 and 18? What do you think they are?",misc,common_factors
+"Hey there! I’ve got a fun math challenge for you! Can you find the point where these two lines cross? We’ve got y = -\frac{3}{6}x - 2 and y = \frac{7}{2}x + 8. Let’s see what you come up with!",algebra,intersection_of_two_lines
+"Hey, have you ever thought about permutations? I’m really curious about this! If we have 15 different objects and we want to pick 5 of them, how many different ways can we arrange those 5? What do you think?!",statistics,permutation
+"Could you please calculate the cross product of the vectors [-8, -2, 4] and [-18, 2, 17]?",algebra,vector_cross
+"Hey there! Check this out—can you figure out which symbol shows how \(\frac{8}{4}\) compares to \(\frac{2}{1}\)? Let’s dive into some fraction fun!",basic_math,compare_fractions
+"Could you help me calculate the simple interest accrued on a principal amount of $5,178 at an interest rate of 10% over a period of 6 years?",algebra,simple_interest
+"Could you help me with this matrix multiplication? I need to multiply the following two matrices: 
+
+\[
+\begin{bmatrix} 
+-45 & 16 & 29 & -87 & 31 & -13 & 55 & -33 \\
+-13 & -51 & 82 & 57 & -64 & 1 & 67 & -16 \\
+83 & -29 & -2 & 38 & 81 & -30 & 42 & -45 \\
+-16 & 32 & -73 & -58 & -51 & 70 & 65 & 39 \\
+-22 & 62 & -74 & -72 & 46 & 85 & -21 & 59 \\
+-22 & -22 & -38 & 10 & 11 & 12 & 73 & 91 \\
+80 & 69 & -57 & -29 & -35 & -88 & 96 & 11 \\
+-65 & 21 & 50 & -78 & 43 & 57 & 80 & -81 \\
+-17 & -9 & 57 & 25 & -57 & -95 & -77 & 71 
+\end{bmatrix}",algebra,matrix_multiplication
+"What is the cube root of 121, rounded to two decimal places?",basic_math,cube_root
+"Hey! I’m really pumped about tackling this math problem! Can you help me integrate 2x^7? Let’s do this!",calculus,power_rule_integration
+"In a quadrilateral, three of the angles measure 109 degrees, 30 degrees, and 37 degrees. What is the measure of the fourth angle?",geometry,fourth_angle_of_quadrilateral
+"I'm intrigued by the nature of quadratic equations. Could you help me determine the zeros of the equation 83x^2 + 167x + 71 = 0?",algebra,quadratic_equation
+"Hey, I was wondering, if we roll 3 dice at the same time, what’s the probability that we’ll get a sum of 16? That sounds exciting!",statistics,dice_sum_probability
+"Alright, let’s put our thinking caps on! What do you get when you take 5 and raise it to the power of 2?",basic_math,exponentiation
+"I've been working on a statistics problem and I'm a bit puzzled. Could you help me find the 95% confidence interval for this sample data: [261, 218, 298, 210, 250, 263, 222, 220, 287, 204, 219, 278, 248, 209, 256, 281, 228, 267, 244, 243]? What would that be?",statistics,confidence_interval
+"Alright, class! Let's delve into an intriguing comparison. Can you determine whether \( 75^{\frac{1}{7}} \) is greater than, less than, or equal to \( 65^{\frac{1}{3}} \)? Please fill in the blank with the correct symbol.",misc,surds_comparison
+"Could you determine the Fibonacci series for the first {n} numbers?",computer_science,fibonacci_series
+"Hey there! I’m really excited about trigonometry! Could you help me figure out what the value of \(\tan(60^\circ)\) is? Thanks!",geometry,basic_trigonometry
+"Could you tell me what the sum of the interior angles is for a polygon that has 10 sides?",geometry,sum_of_polygon_angles
+"I'm trying to make sense of a dataset, and I need some help. Could you help me find the mean, standard deviation, and variance for these numbers: 47, 40, 24, 26, 9, 44, 38, 38, 40, 8, 46, 8, 8, 29, and 50?",statistics,data_summary
+"Hey there! I’m curious about something exciting in geometry. Could you help me figure out the surface area of a sphere that has a radius of 5 meters? Thanks!",geometry,surface_area_sphere
+"Hey, do you happen to know how to calculate the volume of a sphere with a radius of 93 meters? I'm really curious about the result!",geometry,volume_sphere
+"Could you please calculate the 36th Fibonacci number for me?",computer_science,nth_fibonacci_number
+"Hey there! I've got an interesting math challenge for you! If the cost price is 454 and the selling price is 702, can you help me figure out what the profit percentage is? I'm really curious to see how this works out!",misc,profit_loss_percent
+"Could you help me convert the binary number 0001100 into its hexadecimal equivalent?",computer_science,binary_to_hex
+"Hey there! So, I’m trying to wrap my head around this math problem, and it’s got me scratching my head a bit. Can you help me figure out what happens when we multiply these two complex numbers: (14 + 9j) and (18 + 7j)? What do you get when you mix them together?",algebra,multiply_complex_numbers
+"I'm intrigued by this geometric progression: [4, 32, 256, 2048, 16384, 131072]. Can we determine the common ratio? Also, what would the value of the 7th term be, and how do we calculate the sum up to the 10th term?",misc,geometric_progression
+"Hey there! Let’s dive into something fun! How about we calculate the geometric mean of these four intriguing numbers: 19, 92, 82, and 90? What do you think we’ll get? Let’s find out!",misc,geometric_mean
+"Hey, I'm really curious about something! How do you calculate the harmonic mean of the numbers 51 and 68?",misc,harmonic_mean
+"Could you help me determine the Euclidean norm, or L2 norm, of the vector [768.200074787214, 860.1755238558022, 417.9849011985451, 899.8263078744816]?",misc,euclidian_norm
+"Hey there! I'm super excited about this geometry problem! Can you help me figure out the angle between the vectors [750.16, 842.23] and [109.68, 823.77]? What do you think it is?",geometry,angle_btw_vectors
+"Hey, I was wondering, how do you find the absolute difference between 60 and 76? Like, what would |60 - 76| be?",basic_math,absolute_difference
+"I am currently analyzing a problem involving vector dot products. Could you help me determine the result of the dot product between the vectors [-19, 20, -1] and [2, -7, -4]?",algebra,vector_dot
+"Could someone help me understand how to find the 2's complement of the number 1? I'm feeling a bit confused about it.",computer_science,binary_2s_complement
+"Could you please determine the inverse of the following matrix: 
+
+\[
+\begin{bmatrix} 
+20 & 1 & 5 \\ 
+61 & 3 & 15 \\ 
+24 & 1 & 6 
+\end{bmatrix}?
+\]",algebra,invert_matrix
+"Hey there! I’ve got an interesting geometry question that’s really got me thinking: What’s the area of a sector with a radius of 35 units and an angle of 56 degrees? Let’s dive into those calculations!",geometry,sector_area
+"Hey, everyone! I’ve got a cool math challenge for us! Check out this series of numbers: [7, 8, 14, 18, 21, 28, 34, 49, 74, 89]. Can you find the arithmetic mean and the median of this set? Let’s dive in and see what we come up with!",statistics,mean_median
+"What is the determinant of the following 2x2 matrix: \(\begin{bmatrix} 86 & 40 \\ 13 & 35 \end{bmatrix}\)?",algebra,int_matrix_22_determinant
+"Hey, I was wondering, how do you calculate the compound interest on a principal amount of $8,885 with a 2% interest rate over 10 years?",algebra,compound_interest
+"Could you please determine the hexadecimal representation of the decimal number 834?",computer_science,decimal_to_hexadeci
+"I'm really intrigued by percentages. Can you help me figure out what 94% of 51 is?",basic_math,percentage
+"What is the conversion of 88 degrees Celsius into degrees Fahrenheit?",misc,celsius_to_fahrenheit
+"Hey, have you ever thought about finding the 6th term in the arithmetic progression that starts with 82, 181, and 280? What do you think it is?",misc,arithmetic_progression_term
+"What is the sum of the first 18 terms of the arithmetic progression defined by the series: -49, -89, -129, and so on?",misc,arithmetic_progression_sum
+"I've been trying to wrap my head around this conversion. Could you help me figure out what the decimal number 3488 would be in octal?",computer_science,decimal_to_octal
+"Could you help me figure out what the number 2488 would be in Roman numerals?",misc,decimal_to_roman_numerals
+"What is the value of 177 degrees when converted to radians?",geometry,degree_to_rad
+"Could you please determine the equivalent degree measure for an angle of 5.13 radians?",geometry,radian_to_deg
+"Hey, could you help me out with a calculus question? I’m looking to find the derivative of the tangent function with respect to x. What’s the answer?",calculus,trig_differentiation
+"Hey, guess what! Can you help me out with this cool math problem? I need to find the definite integral of the expression 37x² + 94x + 46 from 0 to 1! How awesome is that? Let's see what we can come up with!",calculus,definite_integral
+"I’m curious, can you tell me if 36 is a prime number?",basic_math,is_prime
+"Could you help me determine the decimal equivalent of the Binary Coded Decimal representation for the integer 6?",computer_science,bcd_to_decimal
+"Hey, I’m really curious about this math problem! Can you help me figure out how to convert the expression 8.49(6.0θ + i6.0θ) from complex form to polar form?",misc,complex_to_polar
+"Alright, let’s dive into some set shenanigans! If we have set A with the elements {3, 4, 5} and set B with {1, 2, 3, 4, 5}, can you help me figure out how they play together? I’m curious about their union, intersection, what happens when we take A minus B, B minus A, and the symmetric difference. Let’s see what we can uncover!",misc,set_operation
+"What is the conversion of the decimal number 56243 into hexadecimal (base 16)?",misc,base_conversion
+"Alright, let's dive into some geometry! Can you help me calculate the curved surface area of a cylinder with a radius of 28 and a height of 8? I'm really excited to see what we come up with!",geometry,curved_surface_area_cylinder
+"Hey there, fellow number crunchers! If I have an octagon with sides measuring 99 cm, 53 cm, 89 cm, 118 cm, 11 cm, 11 cm, 111 cm, and 14 cm, can you help me figure out the total perimeter? Let's see how good we are at adding up those lengths!",geometry,perimeter_of_polygons
+"I'm really trying to wrap my head around this: how do you simplify something like 35 raised to the power of 7 raised to the power of 5? It feels a bit overwhelming. Can someone help me understand that?",basic_math,power_of_powers
+"Could you help me understand how to determine the quotient of 39 raised to the 7th power and 39 raised to the 4th power? Specifically, I’m interested in how this relates to the properties of exponents.",misc,quotient_of_power_same_base
+"Hey there! I’ve been grappling with this intriguing problem: What’s the quotient when we divide 4^{9} by 37^{9}? I know it simplifies to (4/37)^{9}, but I’m curious about how that connects to 0.10810810810810811^{9}. Isn’t that fascinating? What do you think?",misc,quotient_of_power_same_power
+"I'm really curious about algebra lately. Can someone help me find the roots of the quadratic equation 3x² + 7x + 1 = 0?",algebra,complex_quadratic
+"Could you tell me if the year 1914 is a leap year?",misc,is_leap_year
+"Could you help me figure out how to convert 309 minutes into hours and minutes?",misc,minutes_to_hours
+"Could you help me determine the BCD representation of the decimal number 6991?",computer_science,decimal_to_bcd
+"Could you help me determine the circumference of a circle that has a radius of 64 units?",geometry,circumference
+"Hey there, fellow science enthusiast! So, here’s a fun little challenge for you: can you combine these like terms for me? We’ve got 2x^{11} and 1x^{13} dancing together. What do you get when you bring them together? Let’s see what math magic unfolds!",algebra,combine_like_terms
+"Could you please determine the value of the signum function for the number 490?",misc,signum_function
+"I’ve been diving into some interesting statistics lately and came across a scenario that got me thinking. If someone tests positive for a disease that only 0.42% of the population has, and the test has a sensitivity of 98.21% and a specificity of 91.50%, what’s the probability that this person actually has the disease?",statistics,conditional_probability
+"Alright, math wizards! 🎉 If you have a circle with a radius of 19 units and you’re looking at an angle of 242 degrees, can you figure out the length of the arc that this angle sweeps out? Let’s see those calculations sparkle! ✨",geometry,arc_length
+"Hey team! I've got an interesting calculus question for us to dive into: How do we find the stationary points of the function f(x) = 6x^3 + 6x^2 + 2? Let's explore this together!",calculus,stationary_points
+"What is the area of a circle with a radius of 6 units?",geometry,area_of_circle
+"Hey there! I’ve got an exciting geometry challenge for you! Can you calculate the volume of a frustum of a cone with a height of 17 meters, a radius of 20 meters at the top, and a radius of 15 meters at the bottom? Let’s see what you come up with!",geometry,volume_cone_frustum
+"Hey, have you ever wondered what the equation of the line would be if we connect the points (-7, -20) and (16, -18)? Can we express it in slope-intercept form?",geometry,equation_of_line_from_two_points
+"What is the area of a circle with its center at the coordinates (5, 9) that passes through the point (0.42, 3.7)?",geometry,area_of_circle_given_center_and_point
+"Hey there! Can you help me unravel the mystery of the factors of 896? What numbers come together to make it?",misc,factors
+"Hey there, math whizzes! Can you help me figure out the volume of a hemisphere with a radius of 85 meters? Let’s see if we can solve this fun puzzle together!",geometry,volume_hemisphere
+"Hey there, fellow number lover! If I’ve got 38 and 156, can you help me figure out the percentage difference between them? Let’s crunch those digits!",basic_math,percentage_difference
+"Alright, my curious minds! Let’s have some fun with numbers! If you have an observed value of -17 and the exact value is -32, can you figure out the percentage error? Put on your thinking caps and let’s see what you come up with!",basic_math,percentage_error
+"I'm really intrigued by number relationships and was wondering, what is the greatest common divisor of 206 and 380?",basic_math,greatest_common_divisor
+"Could you help me figure out the product of the scientific notations 6.74 times 10 to the power of 88 and 6.17 times 10 to the power of negative 79? What would that equal?",misc,product_of_scientific_notations
+"Could you help me determine the volume of a pyramid that has a base measuring 8 meters in length, 3 meters in width, and a height of 16 meters?",geometry,volume_pyramid
+"Alright, let's dive into some geometric fun! If we have a pyramid with a base length of 50 meters, a base width of 30 meters, and a height of 20 meters, can you help me figure out its surface area?",geometry,surface_area_pyramid
+"In the realm of number theory, could you determine whether the number 110 is classified as composite?",basic_math,is_composite
+"What is the complementary angle of 70 degrees?",geometry,complementary_and_supplementary_angle
+"Hey there! I’ve got a fun little challenge for you: can you simplify the square root of 12? Let’s see what you come up with!",basic_math,simplify_square_root
+"I'm wondering, how can we determine the equation of a line that connects the points (15, 18) and (12, 18)?",algebra,line_equation_from_2_points
+"Could you help me determine the orthogonal projection of the vector [4, -3] onto the vector [-9, 10]? I'm eager to understand how to approach this problem!",algebra,orthogonal_projection
+"Alright, let's get a bit whimsical with geometry! Imagine we've got a trapezoid that stands tall with a height of 5 units and has base lengths of 20 and 18 units. Can you help me figure out what its area would be?",geometry,area_of_trapezoid
+"Alright class, here's a fun one for you! Can anyone tell me what the 2nd Tribonacci number is? Let’s see what you come up with!",computer_science,nth_tribonacci_number
+"Hey, I'm really curious about this! If an object travels a distance of 63 meters in 43 seconds, how do we figure out its velocity?",misc,velocity_of_object
